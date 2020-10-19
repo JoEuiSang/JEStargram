@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "210023359223",
+    "firebase_url": "https://jestargram.firebaseio.com",
+    "project_id": "jestargram",
+    "storage_bucket": "jestargram.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:210023359223:android:28278db4aae157bc2429f2",
+        "android_client_info": {
+          "package_name": "com.example.jestargram"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "210023359223-g2k8j78b2020h2ppdj0979dthvkn81cu.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.jestargram",
+            "certificate_hash": "76f1e03e28cba2a51f462c8946eba0f69798e4ef"
+          }
+        },
+        {
+          "client_id": "210023359223-lj9nauqoc8vsaic1a1kib9j57imihreq.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAejIvn2J-6xk5h1lMzjvbCxN8dGTa2-rQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "210023359223-lj9nauqoc8vsaic1a1kib9j57imihreq.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
